@@ -1,0 +1,26 @@
+[
+  {
+    "CustomerID": 13,
+    "DeliveryDate": "2023-12-12T00:00:00",
+    "Amount": 10.0,
+    "Price": 994.801
+  },
+  {
+    "CustomerID": 14,
+    "DeliveryDate": "2023-12-12T00:00:00",
+    "Amount": 15.0,
+    "Price": 1469.7060000000001
+  },
+  {
+    "CustomerID": 14,
+    "DeliveryDate": "2023-12-12T00:00:00",
+    "Amount": 51.0,
+    "Price": 5068.986000000001
+  },
+  {
+    "CustomerID": 16,
+    "DeliveryDate": "2023-12-12T00:00:00",
+    "Amount": 510.0,
+    "Price": 44076.183000000005
+  }
+]
